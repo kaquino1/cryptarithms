@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kaquino1/cryptarithms/static/css/main.d1c06e0b.chunk.css",
+    "main.js": "/kaquino1/cryptarithms/static/js/main.1d161b70.chunk.js",
+    "main.js.map": "/kaquino1/cryptarithms/static/js/main.1d161b70.chunk.js.map",
+    "runtime-main.js": "/kaquino1/cryptarithms/static/js/runtime-main.8f64a800.js",
+    "runtime-main.js.map": "/kaquino1/cryptarithms/static/js/runtime-main.8f64a800.js.map",
+    "static/js/2.e2cb4009.chunk.js": "/kaquino1/cryptarithms/static/js/2.e2cb4009.chunk.js",
+    "static/js/2.e2cb4009.chunk.js.map": "/kaquino1/cryptarithms/static/js/2.e2cb4009.chunk.js.map",
+    "index.html": "/kaquino1/cryptarithms/index.html",
+    "static/css/main.d1c06e0b.chunk.css.map": "/kaquino1/cryptarithms/static/css/main.d1c06e0b.chunk.css.map",
+    "static/js/2.e2cb4009.chunk.js.LICENSE.txt": "/kaquino1/cryptarithms/static/js/2.e2cb4009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f64a800.js",
+    "static/js/2.e2cb4009.chunk.js",
+    "static/css/main.d1c06e0b.chunk.css",
+    "static/js/main.1d161b70.chunk.js"
+  ]
+}
