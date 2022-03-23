@@ -1,0 +1,28 @@
+.button {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #3eb489;
+  color: white;
+  background: #3eb489;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  border-radius: 0.5em;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:hover,
+.button:active {
+  background: #3eb489;
+  border-color: #3eb489;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.button:disabled {
+  cursor: default;
+  box-shadow: none;
+  background: darkgrey;
+  border-color: darkgrey;
+}

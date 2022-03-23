@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5em;
+}
+
+.answer {
+  text-align: center;
+  min-width: 400px;
+  max-width: 80vw;
+}
+
+.text {
+  white-space: pre;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2em;
+}
